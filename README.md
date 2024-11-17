@@ -1,4 +1,4 @@
-# **📦 StockMaster CRM**
+# **📦 StockMaster **
 
 **StockMaster** is a comprehensive desktop-based **CRM (Customer Relationship Management)** and inventory management application. Designed for local businesses, it streamlines inventory tracking, client interaction, and financial insights to improve efficiency and decision-making.
 
